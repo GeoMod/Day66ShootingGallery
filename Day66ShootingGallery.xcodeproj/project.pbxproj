@@ -9,25 +9,51 @@
 /* Begin PBXBuildFile section */
 		187D2303225CCAA60036E90A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187D2302225CCAA60036E90A /* AppDelegate.swift */; };
 		187D2305225CCAA60036E90A /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 187D2304225CCAA60036E90A /* GameScene.sks */; };
-		187D2307225CCAA60036E90A /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 187D2306225CCAA60036E90A /* Actions.sks */; };
 		187D2309225CCAA60036E90A /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187D2308225CCAA60036E90A /* GameScene.swift */; };
 		187D230B225CCAA60036E90A /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187D230A225CCAA60036E90A /* GameViewController.swift */; };
 		187D230E225CCAA60036E90A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 187D230C225CCAA60036E90A /* Main.storyboard */; };
 		187D2310225CCAA70036E90A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 187D230F225CCAA70036E90A /* Assets.xcassets */; };
 		187D2313225CCAA70036E90A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 187D2311225CCAA70036E90A /* LaunchScreen.storyboard */; };
+		187D2329225CCCD30036E90A /* duckRight@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D231B225CCCD30036E90A /* duckRight@3x.png */; };
+		187D232A225CCCD30036E90A /* duckRight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D231C225CCCD30036E90A /* duckRight@2x.png */; };
+		187D232B225CCCD30036E90A /* crosshair@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D231D225CCCD30036E90A /* crosshair@2x.png */; };
+		187D232C225CCCD30036E90A /* duckRight.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D231E225CCCD30036E90A /* duckRight.png */; };
+		187D232D225CCCD30036E90A /* crosshair.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D231F225CCCD30036E90A /* crosshair.png */; };
+		187D232E225CCCD30036E90A /* crosshair@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2320225CCCD30036E90A /* crosshair@3x.png */; };
+		187D232F225CCCD30036E90A /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2321225CCCD30036E90A /* background.png */; };
+		187D2331225CCCD30036E90A /* dogSniff@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2323225CCCD30036E90A /* dogSniff@2x.png */; };
+		187D2332225CCCD30036E90A /* duckLeft@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2324225CCCD30036E90A /* duckLeft@2x.png */; };
+		187D2333225CCCD30036E90A /* dogSniff.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2325225CCCD30036E90A /* dogSniff.png */; };
+		187D2334225CCCD30036E90A /* dogSniff@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2326225CCCD30036E90A /* dogSniff@3x.png */; };
+		187D2335225CCCD30036E90A /* duckLeft@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2327225CCCD30036E90A /* duckLeft@3x.png */; };
+		187D2336225CCCD30036E90A /* duckLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2328225CCCD30036E90A /* duckLeft.png */; };
+		187D2338225CCF4D0036E90A /* grass.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2337225CCF4D0036E90A /* grass.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		187D22FF225CCAA60036E90A /* Day66ShootingGallery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Day66ShootingGallery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		187D2302225CCAA60036E90A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		187D2304225CCAA60036E90A /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		187D2306225CCAA60036E90A /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		187D2308225CCAA60036E90A /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		187D230A225CCAA60036E90A /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		187D230D225CCAA60036E90A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		187D230F225CCAA70036E90A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		187D2312225CCAA70036E90A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		187D2314225CCAA70036E90A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		187D231B225CCCD30036E90A /* duckRight@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "duckRight@3x.png"; sourceTree = "<group>"; };
+		187D231C225CCCD30036E90A /* duckRight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "duckRight@2x.png"; sourceTree = "<group>"; };
+		187D231D225CCCD30036E90A /* crosshair@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "crosshair@2x.png"; sourceTree = "<group>"; };
+		187D231E225CCCD30036E90A /* duckRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = duckRight.png; sourceTree = "<group>"; };
+		187D231F225CCCD30036E90A /* crosshair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crosshair.png; sourceTree = "<group>"; };
+		187D2320225CCCD30036E90A /* crosshair@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "crosshair@3x.png"; sourceTree = "<group>"; };
+		187D2321225CCCD30036E90A /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		187D2323225CCCD30036E90A /* dogSniff@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogSniff@2x.png"; sourceTree = "<group>"; };
+		187D2324225CCCD30036E90A /* duckLeft@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "duckLeft@2x.png"; sourceTree = "<group>"; };
+		187D2325225CCCD30036E90A /* dogSniff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dogSniff.png; sourceTree = "<group>"; };
+		187D2326225CCCD30036E90A /* dogSniff@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogSniff@3x.png"; sourceTree = "<group>"; };
+		187D2327225CCCD30036E90A /* duckLeft@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "duckLeft@3x.png"; sourceTree = "<group>"; };
+		187D2328225CCCD30036E90A /* duckLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = duckLeft.png; sourceTree = "<group>"; };
+		187D2337225CCF4D0036E90A /* grass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grass.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,15 +88,36 @@
 			children = (
 				187D2302225CCAA60036E90A /* AppDelegate.swift */,
 				187D2304225CCAA60036E90A /* GameScene.sks */,
-				187D2306225CCAA60036E90A /* Actions.sks */,
 				187D2308225CCAA60036E90A /* GameScene.swift */,
 				187D230A225CCAA60036E90A /* GameViewController.swift */,
 				187D230C225CCAA60036E90A /* Main.storyboard */,
+				187D231A225CCCD30036E90A /* Content */,
 				187D230F225CCAA70036E90A /* Assets.xcassets */,
 				187D2311225CCAA70036E90A /* LaunchScreen.storyboard */,
 				187D2314225CCAA70036E90A /* Info.plist */,
 			);
 			path = Day66ShootingGallery;
+			sourceTree = "<group>";
+		};
+		187D231A225CCCD30036E90A /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				187D2321225CCCD30036E90A /* background.png */,
+				187D2337225CCF4D0036E90A /* grass.png */,
+				187D231E225CCCD30036E90A /* duckRight.png */,
+				187D231C225CCCD30036E90A /* duckRight@2x.png */,
+				187D231B225CCCD30036E90A /* duckRight@3x.png */,
+				187D2328225CCCD30036E90A /* duckLeft.png */,
+				187D2324225CCCD30036E90A /* duckLeft@2x.png */,
+				187D2327225CCCD30036E90A /* duckLeft@3x.png */,
+				187D231F225CCCD30036E90A /* crosshair.png */,
+				187D231D225CCCD30036E90A /* crosshair@2x.png */,
+				187D2320225CCCD30036E90A /* crosshair@3x.png */,
+				187D2325225CCCD30036E90A /* dogSniff.png */,
+				187D2323225CCCD30036E90A /* dogSniff@2x.png */,
+				187D2326225CCCD30036E90A /* dogSniff@3x.png */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -131,11 +178,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				187D2331225CCCD30036E90A /* dogSniff@2x.png in Resources */,
 				187D230E225CCAA60036E90A /* Main.storyboard in Resources */,
+				187D232D225CCCD30036E90A /* crosshair.png in Resources */,
 				187D2305225CCAA60036E90A /* GameScene.sks in Resources */,
+				187D232B225CCCD30036E90A /* crosshair@2x.png in Resources */,
+				187D232A225CCCD30036E90A /* duckRight@2x.png in Resources */,
+				187D2329225CCCD30036E90A /* duckRight@3x.png in Resources */,
+				187D2335225CCCD30036E90A /* duckLeft@3x.png in Resources */,
+				187D2336225CCCD30036E90A /* duckLeft.png in Resources */,
+				187D232C225CCCD30036E90A /* duckRight.png in Resources */,
 				187D2310225CCAA70036E90A /* Assets.xcassets in Resources */,
+				187D2332225CCCD30036E90A /* duckLeft@2x.png in Resources */,
+				187D2338225CCF4D0036E90A /* grass.png in Resources */,
+				187D232E225CCCD30036E90A /* crosshair@3x.png in Resources */,
+				187D232F225CCCD30036E90A /* background.png in Resources */,
+				187D2334225CCCD30036E90A /* dogSniff@3x.png in Resources */,
 				187D2313225CCAA70036E90A /* LaunchScreen.storyboard in Resources */,
-				187D2307225CCAA60036E90A /* Actions.sks in Resources */,
+				187D2333225CCCD30036E90A /* dogSniff.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,7 +364,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ImpulseCoupledDevelopment.Day66ShootingGallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -322,7 +382,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ImpulseCoupledDevelopment.Day66ShootingGallery;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
