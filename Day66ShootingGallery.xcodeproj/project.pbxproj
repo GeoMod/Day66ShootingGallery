@@ -21,13 +21,14 @@
 		187D232D225CCCD30036E90A /* crosshair.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D231F225CCCD30036E90A /* crosshair.png */; };
 		187D232E225CCCD30036E90A /* crosshair@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2320225CCCD30036E90A /* crosshair@3x.png */; };
 		187D232F225CCCD30036E90A /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2321225CCCD30036E90A /* background.png */; };
-		187D2331225CCCD30036E90A /* dogSniff@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2323225CCCD30036E90A /* dogSniff@2x.png */; };
 		187D2332225CCCD30036E90A /* duckLeft@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2324225CCCD30036E90A /* duckLeft@2x.png */; };
-		187D2333225CCCD30036E90A /* dogSniff.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2325225CCCD30036E90A /* dogSniff.png */; };
-		187D2334225CCCD30036E90A /* dogSniff@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2326225CCCD30036E90A /* dogSniff@3x.png */; };
+		187D2333225CCCD30036E90A /* dogRight.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2325225CCCD30036E90A /* dogRight.png */; };
+		187D2334225CCCD30036E90A /* dogRight@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2326225CCCD30036E90A /* dogRight@3x.png */; };
 		187D2335225CCCD30036E90A /* duckLeft@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2327225CCCD30036E90A /* duckLeft@3x.png */; };
 		187D2336225CCCD30036E90A /* duckLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2328225CCCD30036E90A /* duckLeft.png */; };
 		187D2338225CCF4D0036E90A /* grass.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2337225CCF4D0036E90A /* grass.png */; };
+		18894FC7225EDE62006BE968 /* dogLeft@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18894FC5225EDE62006BE968 /* dogLeft@3x.png */; };
+		18894FC8225EDE62006BE968 /* dogLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = 18894FC6225EDE62006BE968 /* dogLeft.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,13 +48,14 @@
 		187D231F225CCCD30036E90A /* crosshair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = crosshair.png; sourceTree = "<group>"; };
 		187D2320225CCCD30036E90A /* crosshair@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "crosshair@3x.png"; sourceTree = "<group>"; };
 		187D2321225CCCD30036E90A /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
-		187D2323225CCCD30036E90A /* dogSniff@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogSniff@2x.png"; sourceTree = "<group>"; };
 		187D2324225CCCD30036E90A /* duckLeft@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "duckLeft@2x.png"; sourceTree = "<group>"; };
-		187D2325225CCCD30036E90A /* dogSniff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dogSniff.png; sourceTree = "<group>"; };
-		187D2326225CCCD30036E90A /* dogSniff@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogSniff@3x.png"; sourceTree = "<group>"; };
+		187D2325225CCCD30036E90A /* dogRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dogRight.png; sourceTree = "<group>"; };
+		187D2326225CCCD30036E90A /* dogRight@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogRight@3x.png"; sourceTree = "<group>"; };
 		187D2327225CCCD30036E90A /* duckLeft@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "duckLeft@3x.png"; sourceTree = "<group>"; };
 		187D2328225CCCD30036E90A /* duckLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = duckLeft.png; sourceTree = "<group>"; };
 		187D2337225CCF4D0036E90A /* grass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grass.png; sourceTree = "<group>"; };
+		18894FC5225EDE62006BE968 /* dogLeft@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogLeft@3x.png"; sourceTree = "<group>"; };
+		18894FC6225EDE62006BE968 /* dogLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dogLeft.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,9 +115,10 @@
 				187D231F225CCCD30036E90A /* crosshair.png */,
 				187D231D225CCCD30036E90A /* crosshair@2x.png */,
 				187D2320225CCCD30036E90A /* crosshair@3x.png */,
-				187D2325225CCCD30036E90A /* dogSniff.png */,
-				187D2323225CCCD30036E90A /* dogSniff@2x.png */,
-				187D2326225CCCD30036E90A /* dogSniff@3x.png */,
+				187D2325225CCCD30036E90A /* dogRight.png */,
+				187D2326225CCCD30036E90A /* dogRight@3x.png */,
+				18894FC6225EDE62006BE968 /* dogLeft.png */,
+				18894FC5225EDE62006BE968 /* dogLeft@3x.png */,
 			);
 			path = Content;
 			sourceTree = "<group>";
@@ -178,7 +181,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				187D2331225CCCD30036E90A /* dogSniff@2x.png in Resources */,
 				187D230E225CCAA60036E90A /* Main.storyboard in Resources */,
 				187D232D225CCCD30036E90A /* crosshair.png in Resources */,
 				187D2305225CCAA60036E90A /* GameScene.sks in Resources */,
@@ -189,13 +191,15 @@
 				187D2336225CCCD30036E90A /* duckLeft.png in Resources */,
 				187D232C225CCCD30036E90A /* duckRight.png in Resources */,
 				187D2310225CCAA70036E90A /* Assets.xcassets in Resources */,
+				18894FC8225EDE62006BE968 /* dogLeft.png in Resources */,
+				18894FC7225EDE62006BE968 /* dogLeft@3x.png in Resources */,
 				187D2332225CCCD30036E90A /* duckLeft@2x.png in Resources */,
 				187D2338225CCF4D0036E90A /* grass.png in Resources */,
 				187D232E225CCCD30036E90A /* crosshair@3x.png in Resources */,
 				187D232F225CCCD30036E90A /* background.png in Resources */,
-				187D2334225CCCD30036E90A /* dogSniff@3x.png in Resources */,
+				187D2334225CCCD30036E90A /* dogRight@3x.png in Resources */,
 				187D2313225CCAA70036E90A /* LaunchScreen.storyboard in Resources */,
-				187D2333225CCCD30036E90A /* dogSniff.png in Resources */,
+				187D2333225CCCD30036E90A /* dogRight.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
