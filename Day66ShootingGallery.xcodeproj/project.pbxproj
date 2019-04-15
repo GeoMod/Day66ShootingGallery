@@ -29,6 +29,9 @@
 		187D2338225CCF4D0036E90A /* grass.png in Resources */ = {isa = PBXBuildFile; fileRef = 187D2337225CCF4D0036E90A /* grass.png */; };
 		18894FC7225EDE62006BE968 /* dogLeft@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 18894FC5225EDE62006BE968 /* dogLeft@3x.png */; };
 		18894FC8225EDE62006BE968 /* dogLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = 18894FC6225EDE62006BE968 /* dogLeft.png */; };
+		18FD90EB2264BBF2001AF68C /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 18FD90EA2264BBF2001AF68C /* FireParticles.sks */; };
+		18FD90EE2264BD78001AF68C /* feathers.sks in Resources */ = {isa = PBXBuildFile; fileRef = 18FD90EC2264BD78001AF68C /* feathers.sks */; };
+		18FD90EF2264BD78001AF68C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18FD90ED2264BD78001AF68C /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +59,9 @@
 		187D2337225CCF4D0036E90A /* grass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grass.png; sourceTree = "<group>"; };
 		18894FC5225EDE62006BE968 /* dogLeft@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dogLeft@3x.png"; sourceTree = "<group>"; };
 		18894FC6225EDE62006BE968 /* dogLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dogLeft.png; sourceTree = "<group>"; };
+		18FD90EA2264BBF2001AF68C /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
+		18FD90EC2264BD78001AF68C /* feathers.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = feathers.sks; sourceTree = "<group>"; };
+		18FD90ED2264BD78001AF68C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +110,7 @@
 		187D231A225CCCD30036E90A /* Content */ = {
 			isa = PBXGroup;
 			children = (
+				18FD90EA2264BBF2001AF68C /* FireParticles.sks */,
 				187D2321225CCCD30036E90A /* background.png */,
 				187D2337225CCF4D0036E90A /* grass.png */,
 				187D231E225CCCD30036E90A /* duckRight.png */,
@@ -119,6 +126,8 @@
 				187D2326225CCCD30036E90A /* dogRight@3x.png */,
 				18894FC6225EDE62006BE968 /* dogLeft.png */,
 				18894FC5225EDE62006BE968 /* dogLeft@3x.png */,
+				18FD90EC2264BD78001AF68C /* feathers.sks */,
+				18FD90ED2264BD78001AF68C /* Assets.xcassets */,
 			);
 			path = Content;
 			sourceTree = "<group>";
@@ -183,6 +192,7 @@
 			files = (
 				187D230E225CCAA60036E90A /* Main.storyboard in Resources */,
 				187D232D225CCCD30036E90A /* crosshair.png in Resources */,
+				18FD90EF2264BD78001AF68C /* Assets.xcassets in Resources */,
 				187D2305225CCAA60036E90A /* GameScene.sks in Resources */,
 				187D232B225CCCD30036E90A /* crosshair@2x.png in Resources */,
 				187D232A225CCCD30036E90A /* duckRight@2x.png in Resources */,
@@ -197,7 +207,9 @@
 				187D2338225CCF4D0036E90A /* grass.png in Resources */,
 				187D232E225CCCD30036E90A /* crosshair@3x.png in Resources */,
 				187D232F225CCCD30036E90A /* background.png in Resources */,
+				18FD90EE2264BD78001AF68C /* feathers.sks in Resources */,
 				187D2334225CCCD30036E90A /* dogRight@3x.png in Resources */,
+				18FD90EB2264BBF2001AF68C /* FireParticles.sks in Resources */,
 				187D2313225CCAA70036E90A /* LaunchScreen.storyboard in Resources */,
 				187D2333225CCCD30036E90A /* dogRight.png in Resources */,
 			);
